@@ -10,7 +10,7 @@ body {
   font-size: 14px;
 }
 h1 {
-  color: DarkBlue;
+  color: MediumPurple;
   font-family: Tahoma;
   font-size: 36px;
   text-align: left;
@@ -19,24 +19,24 @@ header h1 {
   text-align: center;
 }
 h2 {
-  color: DarkBlue;
+  color: MediumPurple;
   font-family: Tahoma;
   font-size: 36px;
 }
 h3 {
-  color: Darkblue;
+  color: MediumPurple;
   font-family: Tahoma;
   font-size: 36px;
 }
 h1, h2, h3 {
   font-weight: 900;
-  font-style: italic;
+  font-style: normal;
 }
 p {
   line-height: 2;
 }
 a {
-  color: red;
+  color: blue;
   text-decoration: none;
 }
 a:hover {
