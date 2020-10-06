@@ -1,8 +1,44 @@
+/* Website Styles */
+
+* {
+  font-size: 100%;
+}
 body {
-  background-color: Lightcyan;
-  color: Maroon;
+  background-color: black;
+  color: white;
+  font-family: Helvetica;
+  font-size: 14px;
 }
 h1 {
   color: DarkBlue;
   font-family: Tahoma;
+  font-size: 36px;
+  text-align: left;
+}
+header h1 {
+  text-align: center;
+}
+h2 {
+  color: DarkBlue;
+  font-family: Tahoma;
+  font-size: 36px;
+}
+h3 {
+  color: Darkblue;
+  font-family: Tahoma;
+  font-size: 36px;
+}
+h1, h2, h3 {
+  font-weight: 900;
+  font-style: italic;
+}
+p {
+  line-height: 2;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
